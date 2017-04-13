@@ -1,0 +1,2 @@
+#!/bin/bash
+node proj3.js $3 $((RANDOM%50000+4000)) $1 $2 -c $4
